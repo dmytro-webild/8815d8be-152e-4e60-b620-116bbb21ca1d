@@ -6,14 +6,13 @@ import NavbarLayoutFloatingOverlay from "@/components/navbar/NavbarLayoutFloatin
 import HeroSplitDoubleCarousel from "@/components/sections/hero/HeroSplitDoubleCarousel";
 import FeatureBento from "@/components/sections/feature/FeatureBento";
 import FeatureCardTwentySix from "@/components/sections/feature/FeatureCardTwentySix";
-import FeatureCardSixteen from "@/components/sections/feature/FeatureCardSixteen";
 import MetricCardOne from "@/components/sections/metrics/MetricCardOne";
 import TeamCardFive from "@/components/sections/team/TeamCardFive";
 import FaqBase from "@/components/sections/faq/FaqBase";
 import ContactCTA from "@/components/sections/contact/ContactCTA";
 import FooterBase from "@/components/sections/footer/FooterBase";
 import TestimonialCardFifteen from "@/components/sections/testimonial/TestimonialCardFifteen";
-import { Sparkles, Search, ArrowUpRight, Monitor, Shield, Zap, Puzzle, TrendingUp, Lock, Phone, MessageCircle, BookOpen, Tv, Camera, Music, Settings, Award, Users } from "lucide-react";
+import { Sparkles, ArrowUpRight, Zap, Shield, TrendingUp } from "lucide-react";
 
 export default function WebAgency2Page() {
   return (
